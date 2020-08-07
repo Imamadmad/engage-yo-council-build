@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/engage-yo-council-build/precache-manifest.e7ccf4f18ce08bf6734d011575b9e158.js"
+  "/engage-yo-council-build/precache-manifest.31e4f6cee14cccfa3f82c20d3543521e.js"
 );
 
 self.addEventListener('message', (event) => {
